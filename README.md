@@ -1,4 +1,4 @@
-# Hi, I'm Artem Kozmin 👋
+# Hi, I'm Artem 👋
 
 ### Backend Engineer · Python & Go
 
